@@ -1,0 +1,24 @@
+.calculator {
+    width: 265px;
+    height: 360px;
+    margin: 50px auto;
+    background: #e8e8e8;
+	box-shadow: 5px 5px 10px grey;
+}
+.line .btn {
+    margin: 5px 0;
+	width: 60px;
+	font-size: 20px;
+}
+.line{
+	margin-left: 5px;
+}
+.main-input {
+    background-color: cyan;
+    font-size: 20px;
+    font-weight: bold;
+}
+.extraBtn {
+    width: 45%!important;
+    margin-left: 5px!important;
+}
